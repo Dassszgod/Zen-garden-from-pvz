@@ -1,0 +1,15 @@
+C:\Users\tawer\source\repos\Greenhouse\bin\Debug\Greenhouse.exe.config
+C:\Users\tawer\source\repos\Greenhouse\bin\Debug\Greenhouse.exe
+C:\Users\tawer\source\repos\Greenhouse\bin\Debug\Greenhouse.pdb
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.csproj.AssemblyReference.cache
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\MainWindow.g.cs
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\App.g.cs
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse_MarkupCompile.cache
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse_MarkupCompile.lref
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\MainWindow.baml
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.g.resources
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.Properties.Resources.resources
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.csproj.GenerateResource.cache
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.csproj.CoreCompileInputs.cache
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.exe
+C:\Users\tawer\source\repos\Greenhouse\obj\Debug\Greenhouse.pdb
